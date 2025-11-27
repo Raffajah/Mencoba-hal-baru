@@ -1,3 +1,6 @@
+<?php
+$header = "rafa alghifari"
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -21,7 +24,7 @@
 </head>
 <body>
     <header>
-        <h1>Rafa Alghifari</h1>
+        <h1><?php $header ?></h1>
     </header>
 </body>
 </html>
