@@ -1,3 +1,4 @@
+#!/bin/bash
 teksaawal="halo ini saya rafa alghifari mengetik dengan kode shell, ini hanya ppecobaan saja dengan menggunakan shell variabel"
 teksdua="ini adalah teks kedua yang di buat dengan shell script"
 tekstiga="ini adalah teks ketiga yang di buat dengan shell script"
